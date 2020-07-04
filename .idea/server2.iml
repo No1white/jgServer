@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/Documents/Tencent Files/1072368472/FileRecv/web/Demo01" />
+    <content url="file://$USER_HOME$/Documents/Tencent Files/1072368472/FileRecv/web/demo02" />
+    <content url="file://$USER_HOME$/Documents/Tencent Files/1072368472/FileRecv/web/demo04" />
+    <content url="file://D:/BaiduNetdiskDownload/尚硅谷Vue硅谷外卖/code/gshop-client_final" />
+    <content url="file://D:/BaiduNetdiskDownload/尚硅谷Vue硅谷外卖/code/gshop-server_final" />
+    <content url="file://D:/搜狗高速下载/uni-app-master/uni-app-master" />
+    <content url="file://E:/elemen 2" />
+    <content url="file://E:/elemen/elem" />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

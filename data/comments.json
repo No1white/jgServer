@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "comments":[
+      {
+        "userName": "haha123",
+        "avatar": "http://b-ssl.duitang.com/uploads/item/201410/09/20141009224754_AswrQ.jpeg",
+        "commentTime": "2020年6月23日19:10:41",
+        "buyInfo":{
+          "goodTitle": "男短袖2020新款夏季韩版t恤超火ins搭配半截袖上衣服帅气百搭体恤",
+          "categoryType": "颜色",
+          "category": "红色",
+          "goodUnit": "尺码",
+          "size": 42
+        },
+        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据",
+        "picUrls": [
+          "https://gd1.alicdn.com/imgextra/i1/2864444973/O1CN01vVheqF1mbgEu24HXp_!!2864444973.jpg",
+          "https://gd1.alicdn.com/imgextra/i1/2864444973/O1CN017yMWM01mbgEwNrKr2_!!2864444973.jpg",
+          "https://gd2.alicdn.com/imgextra/i2/2864444973/O1CN01XyeO7h1mbgEttSubA_!!2864444973.jpg"
+        ],
+        "addReview": "123",
+        "visit": 400
+      },
+      {
+        "userName": "232323",
+        "avatar": "http://imgsrc.baidu.com/forum/w=580/sign=a9714efaaf86c91708035231f93c70c6/ddd3ab59d109b3dea0394e6ac4bf6c81810a4c48.jpg",
+        "commentTime": "2020年6月23日19:10:41",
+        "buyInfo":{
+          "goodTitle": "男短袖2020新款夏季韩版t恤超火ins搭配半截袖上衣服帅气百搭体恤",
+          "categoryType": "颜色",
+          "category": "红色",
+          "goodUnit": "尺码",
+          "size": 43
+        },
+        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据",
+        "picUrls": [
+          "https://gd1.alicdn.com/imgextra/i1/2864444973/O1CN01vVheqF1mbgEu24HXp_!!2864444973.jpg"
+        ],
+        "addReview": "",
+        "visit": 450
+      },
+      {
+        "userName": "232323",
+        "avatar": "http://imgsrc.baidu.com/forum/w=580/sign=a9714efaaf86c91708035231f93c70c6/ddd3ab59d109b3dea0394e6ac4bf6c81810a4c48.jpg",
+        "commentTime": "2020年6月23日19:10:41",
+        "buyInfo":{
+          "goodTitle": "男短袖2020新款夏季韩版t恤超火ins搭配半截袖上衣服帅气百搭体恤",
+          "categoryType": "颜色",
+          "category": "红色",
+          "goodUnit": "尺码",
+          "size": 43
+        },
+        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据",
+        "picUrls": [
+          "https://gd1.alicdn.com/imgextra/i1/2864444973/O1CN01vVheqF1mbgEu24HXp_!!2864444973.jpg"
+        ],
+        "addReview": "",
+        "visit": 450
+      },
+      {
+        "userName": "232323",
+        "avatar": "http://imgsrc.baidu.com/forum/w=580/sign=a9714efaaf86c91708035231f93c70c6/ddd3ab59d109b3dea0394e6ac4bf6c81810a4c48.jpg",
+        "commentTime": "2020年6月23日19:10:41",
+        "buyInfo":{
+          "goodTitle": "男短袖2020新款夏季韩版t恤超火ins搭配半截袖上衣服帅气百搭体恤",
+          "categoryType": "颜色",
+          "category": "红色",
+          "goodUnit": "尺码",
+          "size": 43
+        },
+        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据",
+        "picUrls": [
+
+        ],
+        "addReview": "",
+        "visit": 450
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "comments":[
+      {
+        "userName": "haha123",
+        "avatar": "http://b-ssl.duitang.com/uploads/item/201410/09/20141009224754_AswrQ.jpeg",
+        "commentTime": "2020年6月23日19:10:41",
+        "buyInfo":{
+          "goodTitle": "男短袖2020新款夏季韩版t恤超火ins搭配半截袖上衣服帅气百搭体恤",
+          "categoryType": "颜色",
+          "category": "红色",
+          "goodUnit": "尺码",
+          "size": 42
+        },
+        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据",
+        "picUrls": [
+          "https://gd1.alicdn.com/imgextra/i1/2864444973/O1CN01vVheqF1mbgEu24HXp_!!2864444973.jpg"
+
+        ],
+        "addReview": "",
+        "visit": 400
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "comments":[
+      {
+        "userName": "haha123",
+        "avatar": "http://b-ssl.duitang.com/uploads/item/201410/09/20141009224754_AswrQ.jpeg",
+        "commentTime": "2020年6月23日19:10:41",
+        "buyInfo":{
+          "goodTitle": "男短袖2020新款夏季韩版t恤超火ins搭配半截袖上衣服帅气百搭体恤",
+          "categoryType": "颜色",
+          "category": "红色",
+          "goodUnit": "尺码",
+          "size": 42
+        },
+        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据",
+        "picUrls": [
+          "https://gd1.alicdn.com/imgextra/i1/2864444973/O1CN01vVheqF1mbgEu24HXp_!!2864444973.jpg",
+          "https://gd1.alicdn.com/imgextra/i1/2864444973/O1CN017yMWM01mbgEwNrKr2_!!2864444973.jpg",
+          "https://gd2.alicdn.com/imgextra/i2/2864444973/O1CN01XyeO7h1mbgEttSubA_!!2864444973.jpg"
+        ],
+        "addReview": "",
+        "visit": 400
+      },
+      {
+        "userName": "232323",
+        "avatar": "http://imgsrc.baidu.com/forum/w=580/sign=a9714efaaf86c91708035231f93c70c6/ddd3ab59d109b3dea0394e6ac4bf6c81810a4c48.jpg",
+        "commentTime": "2020年6月23日19:10:41",
+        "buyInfo":{
+          "goodTitle": "男短袖2020新款夏季韩版t恤超火ins搭配半截袖上衣服帅气百搭体恤",
+          "categoryType": "颜色",
+          "category": "红色",
+          "goodUnit": "尺码",
+          "size": 43
+        },
+        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据",
+        "picUrls": [
+          "https://gd1.alicdn.com/imgextra/i1/2864444973/O1CN01vVheqF1mbgEu24HXp_!!2864444973.jpg"
+        ],
+        "addReview": "",
+        "visit": 450
+      },
+      {
+        "userName": "232323",
+        "avatar": "http://imgsrc.baidu.com/forum/w=580/sign=a9714efaaf86c91708035231f93c70c6/ddd3ab59d109b3dea0394e6ac4bf6c81810a4c48.jpg",
+        "commentTime": "2020年6月23日19:10:41",
+        "buyInfo":{
+          "goodTitle": "男短袖2020新款夏季韩版t恤超火ins搭配半截袖上衣服帅气百搭体恤",
+          "categoryType": "颜色",
+          "category": "红色",
+          "goodUnit": "尺码",
+          "size": 43
+        },
+        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据",
+        "picUrls": [
+          "https://gd1.alicdn.com/imgextra/i1/2864444973/O1CN01vVheqF1mbgEu24HXp_!!2864444973.jpg"
+        ],
+        "addReview": "",
+        "visit": 450
+      }
+    ]
+  }
+]

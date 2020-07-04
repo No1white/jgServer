@@ -1,0 +1,65 @@
+create or replace function ANNUAL_COMP(pi_sal number :=0,pi_comm number :=0)
+return number
+as
+      v_sum number(10);
+begin
+      select (pi_sal*12+pi_comm)into v_sum from dual;
+      return v_sum;
+end ANNUAL_COMP;
+
+
+
+
+
+
+
+ dbms_output.put_line('员工编号：'||c.empno||'姓名：'||c.ename||'工资：'||c.sal||'奖金'||c.comm||'年薪：'||v_result);
+
+
+
+
+
+declare 
+  v_result number(10);
+   CURSOR emp_cursor IS    
+         SELECT sal,comm FROM emp where emp.deptno = 20;
+begin
+
+  for c in emp_cursor loop
+     v_result :=ANNUAL_COMP(c.sal,c.comm);
+      dbms_output.put_line(v_result);
+  end loop;   
+end;  
+
+
+
+
+
+declare
+  v_result number(10);
+  v_sal number(10);
+  v_comm number(10);
+BEGIN
+ FOR c IN (SELECT * FROM EMP where deptno = 20)  LOOP
+   v_sal := c.sal;
+    v_comm := c.comm;
+     dbms_output.put_line(v_sal);
+   v_result := ANNUAL_COMP(v_sal,20);
+   dbms_output.put_line('v_result'||v_result);
+
+   dbms_output.put_line('员工编号：'||c.empno||'姓名：'||c.ename||'工资：'||c.sal||'奖金'||c.comm||'年薪：'||v_result);
+ END LOOP;
+END;
+
+
+
+
+
+
+
+declare
+  v_sal number(10):=&v_sal;
+begin
+
+   dbms_output.put_line(v_sal);
+  end;
